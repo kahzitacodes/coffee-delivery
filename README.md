@@ -32,7 +32,8 @@ In this challenge, an application was developed to manage a shopping cart for a 
 ```
 
 ## Screenshots
-![Coffee Delivery - Home](https://github.com/kahzitacodes/coffee-delivery/assets/103468458/3fa80f2b-f96a-44a4-a3aa-6b51c434cbf4)
+![Coffee Delivery - Home](https://github.com/kahzitacodes/coffee-delivery/assets/103468458/23a437b0-be0d-44d9-a465-17b6632ff134)
+
 
 ## Contribute
 Feel free to contribute to this project :)
